@@ -1,0 +1,1 @@
+pip install flask pandas numpy statsmodels scikit-learn
